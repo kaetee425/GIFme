@@ -1,0 +1,17 @@
+body {
+  background-image: url("magic.jpg");
+  text-align: center;
+}
+
+h1 {
+  color: pink;
+}
+
+h3 {
+  color: pink;
+}
+
+p{
+  color: #64C5EF;
+  font-size: 20px
+}
