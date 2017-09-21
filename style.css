@@ -3,6 +3,12 @@ body {
   text-align: center;
 }
 
+.gifme {
+  display: in-block;
+  float: left;
+  padding: 10px;
+}
+
 h1 {
   color: pink;
 }
